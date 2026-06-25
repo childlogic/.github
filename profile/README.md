@@ -49,3 +49,7 @@ The format is not the product. The shared language is the product.
 - Download the first release: [v1.0](https://github.com/childlogic/childlogic-format/releases/tag/v1.0)
 
 ChildLogic is small by design. A clear format, a careful vocabulary, and an open path for others to build.
+
+## Maintainer
+
+ChildLogic repositories are maintained by [localthinkai](https://github.com/localthinkai). For maintainer contact, email [admin@localthink.ai](mailto:admin@localthink.ai).
